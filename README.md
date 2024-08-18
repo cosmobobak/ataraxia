@@ -1,0 +1,1 @@
+Ataraxia is a JAX-based NNUE trainer.
